@@ -4,7 +4,7 @@
 
 	<groupId>org.zalando</groupId>
 	<artifactId>zmon-opentracing</artifactId>
-	<version>0.30.0</version>
+	<version>0.30.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>zmon-opentracing</name>
@@ -21,7 +21,7 @@
 		<connection>scm:git:git@github.com:zalando-zmon/zmon-opentracing.git</connection>
 		<developerConnection>scm:git:git@github.com:zalando-zmon/zmon-opentracing.git</developerConnection>
 		<url>https://github.com/zalando-zmon/zmon-opentracing</url>
-		<tag>zmon-opentracing-0.30.0</tag>
+		<tag>HEAD</tag>
 	</scm>
 
 	<properties>
