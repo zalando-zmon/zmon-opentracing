@@ -18,8 +18,8 @@
 	</parent>
 
 	<scm>
-		<connection>scm:git:https://github.com/zalando-zmon/zmon-opentracing.git</connection>
-		<developerConnection>scm:git:https://github.com/zalando-zmon/zmon-opentracing.git</developerConnection>
+		<connection>scm:git:git@github.com:zalando-zmon/zmon-opentracing.git</connection>
+		<developerConnection>scm:git:git@github.com:zalando-zmon/zmon-opentracing.git</developerConnection>
 		<url>https://github.com/zalando-zmon/zmon-opentracing</url>
 		<tag>zmon-opentracing-0.30.0</tag>
 	</scm>
